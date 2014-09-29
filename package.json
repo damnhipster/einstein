@@ -1,13 +1,19 @@
 {
-    "name": "einstein",
-    "description": "Einstein helps you find experts within your Github organisation",
-    "version": "0.0.1",
-    "private": true,
-    "scripts": {
-      "start": "node app.js"
-    },
-    "dependencies": {
-        "express": "4.9.5",
-        "ejs": "1.0.0"
-    }
+  "name": "einstein",
+  "description": "Einstein helps you find experts within your Github organisation",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "4.9.5",
+    "ejs": "1.0.0"
+  },
+  "devDependencies": {
+    "zombie": "^2.0.4",
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1"
+  }
 }
