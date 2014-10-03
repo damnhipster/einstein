@@ -13,12 +13,23 @@ var Einstein = React.createClass({
 var Ember = React.createClass({
   render: function () {
     return (
-      <h2>Emberinos</h2>
-      <ul>
-        <li>Aaron Chambers</li>
-        <li>Hem Brahmbhatt (<a href="http://github.com/damnhipster">damnhipster</a>)</li>
-        <li>Chris Game</li>
-      </ul>
+      <div>
+        <h2>Emberinos</h2>
+        <ul>
+          <li>Aaron Chambers</li>
+          <li>Hem Brahmbhatt (<GithubUser name="damnhipster"/>)</li>
+          <li>Chris Game</li>
+        </ul>
+      </div>
+    );
+  }
+});
+
+var GithubUser = React.createClass({
+  render: function () {
+    var link = "http://github.com/" + this.props.name;
+    return (
+      <a href={link}>{this.props.name}</a>
     );
   }
 });
