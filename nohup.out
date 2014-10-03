@@ -151,3 +151,167 @@ From previous event:
 [33mapp.js changed; rebuilding...[0m
 [36mbuilt Module("app")[0m
 ["app"]
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 6: Adjacent XJS elements must be wrapped in an enclosing tag
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:6012:13)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+    at parseAssignmentExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3457:16)
+    at parseExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3499:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 6: Adjacent XJS elements must be wrapped in an enclosing tag
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:6012:13)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+    at parseAssignmentExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3457:16)
+    at parseExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3499:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 6: Adjacent XJS elements must be wrapped in an enclosing tag
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:6012:13)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+    at parseAssignmentExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3457:16)
+    at parseExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3499:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[36mbuilt Module("app")[0m
+["app"]
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 11: Expected corresponding XJS closing tag for ul
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2343:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5998:17)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5992:31)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 12: Expected corresponding XJS closing tag for ul
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2343:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5998:17)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5992:31)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 10: Unexpected token <
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at throwUnexpected (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2400:9)
+    at parseXJSIdentifier (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5769:13)
+    at parseXJSAttributeName (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5814:16)
+    at parseXJSAttribute (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5901:16)
+    at parseXJSOpeningElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5958:29)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5983:26)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5992:31)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 10: Unexpected token <
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at throwUnexpected (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2400:9)
+    at parseXJSIdentifier (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5769:13)
+    at parseXJSAttributeName (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5814:16)
+    at parseXJSAttribute (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5901:16)
+    at parseXJSOpeningElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5958:29)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5983:26)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5992:31)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 12: Expected corresponding XJS closing tag for ul
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2343:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5998:17)
+    at parseXJSChild (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5920:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5992:31)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[36mbuilt Module("app")[0m
+["app"]
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 22: Unexpected token ;
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at throwUnexpected (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2400:9)
+    at parseAssignmentExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3450:21)
+    at parseExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3499:16)
+    at parseReturnStatement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:4261:28)
+    at parseStatement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:4488:24)
+    at parseSourceElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:5100:24)
+    at parseFunctionSourceElements (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:4586:29)
+    at parseFunctionExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:4826:16)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2856:24)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
+[33mapp.js changed; rebuilding...[0m
+[31mError while reading module app:[0m
+[31mError: Parse Error: Line 17: Adjacent XJS elements must be wrapped in an enclosing tag
+    at throwError (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2338:21)
+    at parseXJSElement (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:6012:13)
+    at parsePrimaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2906:20)
+    at parseLeftHandSideExpressionAllowCall (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:2990:61)
+    at parsePostfixExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3030:20)
+    at parseUnaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3097:16)
+    at parseBinaryExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3187:16)
+    at parseConditionalExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3247:16)
+    at parseAssignmentExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3457:16)
+    at parseExpression (/usr/local/lib/node_modules/react-tools/node_modules/jstransform/node_modules/esprima-fb/esprima.js:3499:16)
+From previous event:
+    at buildP (/usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:153:16)
+    at /usr/local/lib/node_modules/react-tools/node_modules/commoner/lib/reader.js:181:28[0m
