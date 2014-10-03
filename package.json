@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js",
+    "start": "nohup jsx --watch src/ build/ & node app.js",
     "test": "mocha"
   },
   "dependencies": {

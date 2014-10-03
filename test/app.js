@@ -12,6 +12,8 @@ describe('Einstein', function() {
   it("should find people", function() {
     expect(browser.success).to.equal(true);
     expect(browser.text('h1')).to.include('Einstein');
+    expect(browser.text('h2')).to.include('Ember');
+    expect(browser.text('li')).to.include('Hem Brahmbhatt (damnhipster)');
   });
 
 });
