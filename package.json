@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "start": "nohup jsx --watch src/ build/ & node app.js",
-    "test": "mocha"
+    "test": "mocha --watch"
   },
   "dependencies": {
     "express": "4.9.5",
